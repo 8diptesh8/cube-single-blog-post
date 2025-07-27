@@ -1,0 +1,1 @@
+# cube-single-blog-post
